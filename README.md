@@ -1,8 +1,6 @@
 # README
 
-link para heroku :
 
-https://serene-meadow-59240.herokuapp.com/
 
 
 This README would normally document whatever steps are necessary to get the
@@ -26,4 +24,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* https://serene-meadow-59240.herokuapp.com/
